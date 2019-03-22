@@ -21,3 +21,13 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+
+
+# root
+.metadata
+.recommenders
+RemoteSystemsTempFiles
+
+# starter-simple
+starter-simple/src/main/resources/public/*
+starter-simple/src/main/resources/frontend/angular-app/node_modules/*
