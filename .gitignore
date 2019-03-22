@@ -30,4 +30,7 @@ RemoteSystemsTempFiles
 
 # starter-simple
 starter-simple/src/main/resources/public/*
-starter-simple/src/main/resources/frontend/angular-app/node_modules/*
+starter-simple/src/main/frontend/angular-app/node_modules/*
+
+# starter-authentication
+starter-authentication
