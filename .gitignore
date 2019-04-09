@@ -36,5 +36,5 @@ starter-simple/src/main/frontend/angular-app/node_modules/*
 starter-authentication
 
 # starter-microservices-simple
-starter-microservices-simple/*/.*
+starter-microservices-simple/**/.*
 starter-microservices-simple/*/target/
